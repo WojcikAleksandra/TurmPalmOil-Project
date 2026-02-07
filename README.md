@@ -3,6 +3,5 @@ This repository contains code and results developed during *Data Visualization T
 Our project explores the varied impact of palm oil on our world.
 ### Authors
 * [@Krzysztof Tkaczyk](https://github.com/UserKrzysztof)
-* [@Filip Szligiert](https://github.com/FylypO)
+* [@Filip Szlingiert](https://github.com/FylypO)
 * [@Aleksandra Wójcik](https://github.com/WojcikAleksandra)
-  
